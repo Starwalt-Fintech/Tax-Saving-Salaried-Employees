@@ -61,4 +61,7 @@ Given to an employee on resignation, superannuation, retirement, dismemberment, 
 
 One of the most popular savings options, fixed deposits, are a great way to let your money work for you and also save some amount on taxes. They come with a 5-year lock-in period and provide guaranteed1 returns, making it an ideal option if you are looking for a safe investment. Plus, you can claim tax deductions on your tax-saving FD under Section 80C.
 
+
+Under section 80D, it allows the policyholder to save tax by claiming medical insurance incurred on self, spouse, dependent parents as a deduction from income before paying the taxes. The person's age should be 60 years or above to be eligible to claim the medical expenses
+
 ```
